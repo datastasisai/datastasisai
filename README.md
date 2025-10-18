@@ -229,9 +229,9 @@ Deep learning model for retail demand and pricing predictions with seasonal patt
 
 ```
 Discovery → Data Ingestion → Exploration → Modeling → Evaluation → MLOps → Deployment → Monitoring
-    ↓            ↓              ↓           ↓           ↓          ↓          ↓           ↓
-Business     API/DB/        EDA &      Feature     Offline    CI/CD &    Batch/      Drift &
-  Goals      Streaming    Profiling     Store      Metrics    Docker    Real-time   Quality
+    ↓            ↓                ↓           ↓           ↓          ↓          ↓           ↓
+Business       API/DB/          EDA &      Feature     Offline     CI/CD &    Batch/      Drift &
+  Goals       Streaming       Profiling     Store      Metrics     Docker    Real-time    Quality
 ```
 
 1. **Discovery**: Align on KPIs, constraints, data availability
