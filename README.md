@@ -154,35 +154,74 @@ graph LR
 
 ## 📁 Featured Projects
 
-### 🔍 **Intelligent Document Processing Pipeline**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Intelligent Document Processing
 End-to-end MLOps solution for document classification and extraction using transformer models.
-- **Stack**: PyTorch, Transformers, Docker, MLflow, GCP, FastAPI
-- **Features**: Automated retraining, drift monitoring, 95%+ accuracy
 
-### 🤖 **RAG-Powered Knowledge Assistant**
+**Stack:** PyTorch • Transformers • Docker • MLflow • GCP • FastAPI
+
+**Impact:** 95%+ accuracy • Automated retraining • Drift monitoring
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 RAG-Powered Knowledge Assistant
 Production LLM application with retrieval-augmented generation and conversational memory.
-- **Stack**: LangChain, CrewAI, Pinecone, OpenAI, Redis
-- **Features**: Vector search, context management, streaming responses
 
-### 🚨 **Real-time Anomaly Detection System**
-Scalable ML system for streaming data with automated alerting.
-- **Stack**: scikit-learn, Kafka, Evidently, Grafana, Terraform, AWS
-- **Features**: Model drift monitoring, auto-scaling, sub-second latency
+**Stack:** LangChain • CrewAI • Pinecone • OpenAI • Redis
 
-### 📊 **AI-Powered Competitor Intelligence**
+**Impact:** Vector search • Context management • Streaming responses
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 Real-time Anomaly Detection
+Scalable ML system for streaming data with automated alerting and monitoring.
+
+**Stack:** scikit-learn • Kafka • Evidently • Grafana • Terraform • AWS
+
+**Impact:** Sub-second latency • Auto-scaling • Model drift detection
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 AI-Powered Competitor Intelligence
 Data-driven system analyzing competitors through public data and sentiment analysis.
-- **Stack**: Python, NLP, Hugging Face, BeautifulSoup, Power BI
-- **Features**: Job posting analysis, trend detection, automated reporting
 
-### 💼 **Predictive Customer Churn System**
-ML model predicting customer attrition with 89% accuracy.
-- **Stack**: XGBoost, FastAPI, MLflow, Azure, PostgreSQL
-- **Features**: Feature importance, SHAP explanations, A/B testing framework
+**Stack:** Python • NLP • Hugging Face • BeautifulSoup • Power BI
 
-### 🛒 **Intelligent Demand Forecasting**
-Deep learning model for retail demand and pricing predictions.
-- **Stack**: TensorFlow, Prophet, BigQuery, GCP, Looker Studio
-- **Features**: Seasonal decomposition, multi-step forecasting, scenario planning
+**Impact:** Trend detection • Job posting analysis • Automated reporting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Predictive Customer Churn
+ML model predicting customer attrition with 94% accuracy and explainable predictions.
+
+**Stack:** XGBoost • FastAPI • MLflow • Azure • PostgreSQL
+
+**Impact:** SHAP explanations • Feature importance • A/B testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Intelligent Demand Forecasting
+Deep learning model for retail demand and pricing predictions with seasonal patterns.
+
+**Stack:** TensorFlow • Prophet • BigQuery • GCP • Looker Studio
+
+**Impact:** Multi-step forecasting • Seasonal decomposition • Scenario planning
+
+</td>
+</tr>
+</table>
 
 ---
 
