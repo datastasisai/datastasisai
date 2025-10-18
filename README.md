@@ -17,7 +17,7 @@ From Data to Deployment • Research to Production • Prototype to Scale
 
 ## 🎯 Mission
 
-> **Give data meaning that drives business success**
+> ***"Give data meaning that drives business success"***
 
 We bridge the gap between cutting-edge AI/ML research and production-ready systems. Every line of code is designed with **reproducibility**, **scalability**, and **responsible AI** at its core.
 
