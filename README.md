@@ -1,5 +1,5 @@
 # 🧠 Datastasis AI
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=datastasisai&label=Profile%20views&color=0e75b6&style=flat" alt="datastasisai" /> </p>
 <div align="center">
 
 **Engineering Intelligent Systems**
